@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hoobank-modern-banking/static/css/main.8d3bb1a0.css",
+    "main.js": "/hoobank-modern-banking/static/js/main.ed228f9c.js",
+    "index.html": "/hoobank-modern-banking/index.html",
+    "main.8d3bb1a0.css.map": "/hoobank-modern-banking/static/css/main.8d3bb1a0.css.map",
+    "main.ed228f9c.js.map": "/hoobank-modern-banking/static/js/main.ed228f9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3bb1a0.css",
+    "static/js/main.ed228f9c.js"
+  ]
+}
